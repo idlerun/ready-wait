@@ -1,3 +1,9 @@
+---
+title: "Ready-Wait For Docker Containers"
+tags: docker
+date: 2015-11-24
+---
+
 Docker supports linking together containers and will ensure that containers only start if the containers they depend on are started. It doesn't have
 anything (yet) for app-specific logic which indicates whether the dependency is actually *ready*.
 
