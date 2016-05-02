@@ -7,7 +7,7 @@ Here is a simple Python script which can be run inside of a container to delay s
 
 The following is the script which will run and wait until the preconditions defined in the yaml definition below are met
 
-#### [ready_wait.py](https://github.com/idlerun/simple-pex/blob/master/ready-wait/ready-wait.py)
+#### [ready_wait.py](https://github.com/idlerun/ready-wait/blob/master/ready_wait.py)
 
 ## Configuration
 
