@@ -35,5 +35,5 @@ FROM ubuntu
 ADD ready_wait.py /usr/bin/ready_wait
 ADD ready_wait.yaml /etc/ready_wait.yaml
 ...
-CMD ready_wait &amp;&amp; /entrypoint.sh
+CMD ready_wait && /entrypoint.sh
 ```
