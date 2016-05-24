@@ -1,5 +1,5 @@
 ---
-page: http://www.idle.run/ready-wait
+page: https://idle.run/ready-wait
 title: "Ready-Wait For Docker Containers"
 tags: docker
 date: 2015-11-24
